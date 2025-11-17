@@ -34,5 +34,5 @@ public class NotOrtalamasi {
 			System.out.println("Dersten Kaldınız");
 		}
 	}
-
+ 
 }
